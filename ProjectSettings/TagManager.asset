@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Arrows
+  - MapTarget
+  - PlayerParent
+  - Breaklight
+  - FxTemporaire
+  - Traffic
+  - TunnelLights
+  - Turbo_fx_smoke
+  - BonusSpecialTrigger
+  - wall
+  - GarageCar
+  - Turbo_fx
+  - GameplayManagers
+  - Checkpoint
+  - Sounds
+  - Turbo_fx_speed
+  - Turbo_fx_explosion
+  - Draft_fx
+  - Car
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Map
+  - JoyStick
+  - Map2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e8fa8a8d62a699a4fb9b36749c7fdf0f
+timeCreated: 1507874023
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kingthings Foundation
+  fontNames:
+  - Kingthings Foundation
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

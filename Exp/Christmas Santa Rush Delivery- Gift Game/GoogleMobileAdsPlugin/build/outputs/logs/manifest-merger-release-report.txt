@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:2:1-10:12
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:2:1-10:12
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:2:1-10:12
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:2:1-10:12
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:2:1-10:12
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:2:1-10:12
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:2:1-10:12
+	package
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:2:117-147
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:2:148-173
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:2:70-116
+	xmlns:android
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:2:174-197
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml
+application
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:4:3-8:17
+uses-library#org.apache.http.legacy
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:5:5-84
+	android:required
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:5:19-43
+	android:name
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:5:44-81
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:7:5-130
+	android:value
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:7:73-127
+	android:name
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:7:16-72
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:9:3-128
+	tools:node
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:9:106-125
+	android:name
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:9:20-105
+uses-sdk
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml

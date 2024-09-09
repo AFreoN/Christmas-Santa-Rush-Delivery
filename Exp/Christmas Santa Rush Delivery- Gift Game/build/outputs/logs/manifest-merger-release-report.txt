@@ -1,0 +1,526 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\60b50828def4ba3859898ffb4c971c21\androidx.arch.core.core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\4848834a580ecbbeaa84b2c68ac1663a\androidx.asynclayoutinflater.asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.browser.browser-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\1cea144c00900e5743fbdab43e870450\androidx.browser.browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\3b95216347b91b0d0d6d33ef33ac3197\androidx.coordinatorlayout.coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\ec609e8cee787e2dff3592c66b08a66a\androidx.core.core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\01d333055a983e736e0a5fac950ffa8f\androidx.cursoradapter.cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\2fe66d8bec3c90b690bace4d7b7b6157\androidx.customview.customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\b432947d09f38291043b1b7278108b44\androidx.documentfile.documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\2dd52bdeda96a748df5d7e83cece6c38\androidx.drawerlayout.drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\61015dda0f41d63be36764ccaeacf3e4\androidx.fragment.fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\699bc310780b1730bce8fe271ffeca8b\androidx.interpolator.interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\8d97f43c730baedb50b76131bea8976c\androidx.legacy.legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\65eb695d8f60c47c48deea4b4bc97d22\androidx.legacy.legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\df65787e67fe4b4bc0635deed9695797\androidx.lifecycle.lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a1f5477cd6fd5fad9baa3e263bec7d60\androidx.lifecycle.lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a0e6ae58238c1d1ff8cccab3415a6d19\androidx.lifecycle.lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\2bd63e96b82e4254cd6653dc8da764d4\androidx.lifecycle.lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\7e3b4c2f83e256517b094f844ce7d668\androidx.loader.loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\8cf450d11667f9427b289f08c2115f5c\androidx.localbroadcastmanager.localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\d31a9dbc3f8404c541e987748c42963b\androidx.print.print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\8069b605758f8fcc2cf1372e87a50a23\androidx.slidingpanelayout.slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\6bb482d4edfb8945df7454050b78aa75\androidx.swiperefreshlayout.swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\45ed680b1ca2374827549d4e2c9e1a90\androidx.versionedparcelable.versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\863b030a4ef24c5e89f12cd832de155e\androidx.viewpager.viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-ads-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\7242850e320ef33bad7786e1e0349b14\com.google.android.gms.play-services-ads-18.2.0\AndroidManifest.xml:17:1-25:12
+MERGED from [:com.google.android.gms.play-services-ads-base-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\611e0dbb5193fdfaa0f3adeabf7e782a\com.google.android.gms.play-services-ads-base-18.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a62dccc092f5d848f6df177b3950cccd\com.google.android.gms.play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\41c18cd7600ecdb7b8f5998d4f91eabe\com.google.android.gms.play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [:com.google.android.gms.play-services-gass-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\909a7c7563cf99d5329a8af29c4a0ab8\com.google.android.gms.play-services-gass-18.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:17:1-55:12
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\110d5d553a6fc6f610bf6fb1cc9005d6\com.google.android.gms.play-services-measurement-base-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\f474533290d54191c54e1a675ae15eae\com.google.android.gms.play-services-measurement-impl-17.0.0\AndroidManifest.xml:17:1-40:12
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\7ef46f9145a1dd5bb9bdf57cb2c63d19\com.google.android.gms.play-services-measurement-sdk-17.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\add27ae4c87fe5f0a31e13e9820beefc\com.google.android.gms.play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:17:1-40:12
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\ffb6fe2bfdcaed2e475e1c22ecb75422\com.google.android.gms.play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [:common:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a76928aafc28c022e407ce24cb428b89\common\AndroidManifest.xml:2:1-12:12
+MERGED from [:GoogleAIDL:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\064f0f2b86077e9812e97d58467f6e7b\GoogleAIDL\AndroidManifest.xml:2:1-12:12
+MERGED from [:googlemobileads-unity:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\3961bcc1c018b85ae25589fea38de739\googlemobileads-unity\AndroidManifest.xml:7:1-18:12
+MERGED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:2:1-40:12
+MERGED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:2:1-37:12
+MERGED from [:GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:2:70-124
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:2:125-171
+	android:versionCode
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:2:172-202
+supports-screens
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:4:3-15:17
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\ec609e8cee787e2dff3592c66b08a66a\androidx.core.core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\ec609e8cee787e2dff3592c66b08a66a\androidx.core.core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\45ed680b1ca2374827549d4e2c9e1a90\androidx.versionedparcelable.versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\45ed680b1ca2374827549d4e2c9e1a90\androidx.versionedparcelable.versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-ads-base-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\611e0dbb5193fdfaa0f3adeabf7e782a\com.google.android.gms.play-services-ads-base-18.2.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-ads-base-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\611e0dbb5193fdfaa0f3adeabf7e782a\com.google.android.gms.play-services-ads-base-18.2.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a62dccc092f5d848f6df177b3950cccd\com.google.android.gms.play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a62dccc092f5d848f6df177b3950cccd\com.google.android.gms.play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:22:3-26:17
+MERGED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:22:3-26:17
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\41c18cd7600ecdb7b8f5998d4f91eabe\com.google.android.gms.play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\41c18cd7600ecdb7b8f5998d4f91eabe\com.google.android.gms.play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-gass-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\909a7c7563cf99d5329a8af29c4a0ab8\com.google.android.gms.play-services-gass-18.2.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-gass-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\909a7c7563cf99d5329a8af29c4a0ab8\com.google.android.gms.play-services-gass-18.2.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:28:5-53:19
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:28:5-53:19
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\110d5d553a6fc6f610bf6fb1cc9005d6\com.google.android.gms.play-services-measurement-base-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\110d5d553a6fc6f610bf6fb1cc9005d6\com.google.android.gms.play-services-measurement-base-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\f474533290d54191c54e1a675ae15eae\com.google.android.gms.play-services-measurement-impl-17.0.0\AndroidManifest.xml:28:5-38:19
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\f474533290d54191c54e1a675ae15eae\com.google.android.gms.play-services-measurement-impl-17.0.0\AndroidManifest.xml:28:5-38:19
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\7ef46f9145a1dd5bb9bdf57cb2c63d19\com.google.android.gms.play-services-measurement-sdk-17.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\7ef46f9145a1dd5bb9bdf57cb2c63d19\com.google.android.gms.play-services-measurement-sdk-17.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\add27ae4c87fe5f0a31e13e9820beefc\com.google.android.gms.play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:28:5-38:19
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\add27ae4c87fe5f0a31e13e9820beefc\com.google.android.gms.play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:28:5-38:19
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\ffb6fe2bfdcaed2e475e1c22ecb75422\com.google.android.gms.play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\ffb6fe2bfdcaed2e475e1c22ecb75422\com.google.android.gms.play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [:common:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a76928aafc28c022e407ce24cb428b89\common\AndroidManifest.xml:9:5-10:19
+MERGED from [:common:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a76928aafc28c022e407ce24cb428b89\common\AndroidManifest.xml:9:5-10:19
+MERGED from [:GoogleAIDL:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\064f0f2b86077e9812e97d58467f6e7b\GoogleAIDL\AndroidManifest.xml:9:5-10:19
+MERGED from [:GoogleAIDL:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\064f0f2b86077e9812e97d58467f6e7b\GoogleAIDL\AndroidManifest.xml:9:5-10:19
+MERGED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:22:5-38:19
+MERGED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:22:5-38:19
+MERGED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:14:5-35:19
+MERGED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:14:5-35:19
+MERGED from [:GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-22:19
+MERGED from [:GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-22:19
+	android:appComponentFactory
+		ADDED from [:androidx.core.core-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\ec609e8cee787e2dff3592c66b08a66a\androidx.core.core-1.0.0\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:4:90-122
+	android:allowBackup
+		ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:22:18-44
+	android:icon
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:4:58-89
+	android:theme
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:4:16-57
+activity#com.door.santa.claus.gift.delivery.christmas.UnityPlayerActivity
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:5:5-11:16
+	android:screenOrientation
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:5:48-85
+	android:label
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:5:15-47
+	android:launchMode
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:5:86-117
+	android:hardwareAccelerated
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:5:300-335
+	android:configChanges
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:5:118-299
+	android:name
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:5:336-415
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:6:7-9:23
+action#android.intent.action.MAIN
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:8:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:10:7-82
+	android:value
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:10:59-79
+	android:name
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:10:18-58
+meta-data#unity.build-id
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:12:5-101
+	android:value
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:12:46-98
+	android:name
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:12:16-45
+meta-data#unity.splash-mode
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:13:5-69
+	android:value
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:13:49-66
+	android:name
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:13:16-48
+meta-data#unity.splash-enable
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:14:5-74
+	android:value
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:14:51-71
+	android:name
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:14:16-50
+uses-feature#0x00020000
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:16:3-52
+	android:glEsVersion
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:16:17-49
+uses-permission#android.permission.INTERNET
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:17:3-65
+MERGED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:20:3-65
+MERGED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:20:3-65
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\f474533290d54191c54e1a675ae15eae\com.google.android.gms.play-services-measurement-impl-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\f474533290d54191c54e1a675ae15eae\com.google.android.gms.play-services-measurement-impl-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\add27ae4c87fe5f0a31e13e9820beefc\com.google.android.gms.play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\add27ae4c87fe5f0a31e13e9820beefc\com.google.android.gms.play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [:googlemobileads-unity:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\3961bcc1c018b85ae25589fea38de739\googlemobileads-unity\AndroidManifest.xml:16:5-67
+MERGED from [:googlemobileads-unity:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\3961bcc1c018b85ae25589fea38de739\googlemobileads-unity\AndroidManifest.xml:16:5-67
+MERGED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:11:5-67
+MERGED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:11:5-67
+MERGED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:12:5-67
+MERGED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:17:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:18:3-77
+MERGED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:21:3-77
+MERGED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:21:3-77
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\f474533290d54191c54e1a675ae15eae\com.google.android.gms.play-services-measurement-impl-17.0.0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\f474533290d54191c54e1a675ae15eae\com.google.android.gms.play-services-measurement-impl-17.0.0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\add27ae4c87fe5f0a31e13e9820beefc\com.google.android.gms.play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\add27ae4c87fe5f0a31e13e9820beefc\com.google.android.gms.play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:24:5-79
+MERGED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:11:5-79
+MERGED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:18:20-74
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:19:3-97
+	android:required
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:19:70-94
+	android:name
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:19:17-69
+uses-feature#android.hardware.touchscreen
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:20:3-88
+	android:required
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:20:61-85
+	android:name
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:20:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:21:3-99
+	android:required
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:21:72-96
+	android:name
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:21:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:22:3-108
+	android:required
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:22:81-105
+	android:name
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml:22:17-80
+uses-sdk
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\60b50828def4ba3859898ffb4c971c21\androidx.arch.core.core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\60b50828def4ba3859898ffb4c971c21\androidx.arch.core.core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\4848834a580ecbbeaa84b2c68ac1663a\androidx.asynclayoutinflater.asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\4848834a580ecbbeaa84b2c68ac1663a\androidx.asynclayoutinflater.asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.browser.browser-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\1cea144c00900e5743fbdab43e870450\androidx.browser.browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.browser.browser-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\1cea144c00900e5743fbdab43e870450\androidx.browser.browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\3b95216347b91b0d0d6d33ef33ac3197\androidx.coordinatorlayout.coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\3b95216347b91b0d0d6d33ef33ac3197\androidx.coordinatorlayout.coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\ec609e8cee787e2dff3592c66b08a66a\androidx.core.core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\ec609e8cee787e2dff3592c66b08a66a\androidx.core.core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\01d333055a983e736e0a5fac950ffa8f\androidx.cursoradapter.cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\01d333055a983e736e0a5fac950ffa8f\androidx.cursoradapter.cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\2fe66d8bec3c90b690bace4d7b7b6157\androidx.customview.customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\2fe66d8bec3c90b690bace4d7b7b6157\androidx.customview.customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\b432947d09f38291043b1b7278108b44\androidx.documentfile.documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\b432947d09f38291043b1b7278108b44\androidx.documentfile.documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\2dd52bdeda96a748df5d7e83cece6c38\androidx.drawerlayout.drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\2dd52bdeda96a748df5d7e83cece6c38\androidx.drawerlayout.drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\61015dda0f41d63be36764ccaeacf3e4\androidx.fragment.fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\61015dda0f41d63be36764ccaeacf3e4\androidx.fragment.fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\699bc310780b1730bce8fe271ffeca8b\androidx.interpolator.interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\699bc310780b1730bce8fe271ffeca8b\androidx.interpolator.interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\8d97f43c730baedb50b76131bea8976c\androidx.legacy.legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\8d97f43c730baedb50b76131bea8976c\androidx.legacy.legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\65eb695d8f60c47c48deea4b4bc97d22\androidx.legacy.legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\65eb695d8f60c47c48deea4b4bc97d22\androidx.legacy.legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\df65787e67fe4b4bc0635deed9695797\androidx.lifecycle.lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\df65787e67fe4b4bc0635deed9695797\androidx.lifecycle.lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a1f5477cd6fd5fad9baa3e263bec7d60\androidx.lifecycle.lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a1f5477cd6fd5fad9baa3e263bec7d60\androidx.lifecycle.lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a0e6ae58238c1d1ff8cccab3415a6d19\androidx.lifecycle.lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a0e6ae58238c1d1ff8cccab3415a6d19\androidx.lifecycle.lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\2bd63e96b82e4254cd6653dc8da764d4\androidx.lifecycle.lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\2bd63e96b82e4254cd6653dc8da764d4\androidx.lifecycle.lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\7e3b4c2f83e256517b094f844ce7d668\androidx.loader.loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\7e3b4c2f83e256517b094f844ce7d668\androidx.loader.loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\8cf450d11667f9427b289f08c2115f5c\androidx.localbroadcastmanager.localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\8cf450d11667f9427b289f08c2115f5c\androidx.localbroadcastmanager.localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\d31a9dbc3f8404c541e987748c42963b\androidx.print.print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\d31a9dbc3f8404c541e987748c42963b\androidx.print.print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\8069b605758f8fcc2cf1372e87a50a23\androidx.slidingpanelayout.slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\8069b605758f8fcc2cf1372e87a50a23\androidx.slidingpanelayout.slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\6bb482d4edfb8945df7454050b78aa75\androidx.swiperefreshlayout.swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\6bb482d4edfb8945df7454050b78aa75\androidx.swiperefreshlayout.swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\45ed680b1ca2374827549d4e2c9e1a90\androidx.versionedparcelable.versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\45ed680b1ca2374827549d4e2c9e1a90\androidx.versionedparcelable.versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\863b030a4ef24c5e89f12cd832de155e\androidx.viewpager.viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\863b030a4ef24c5e89f12cd832de155e\androidx.viewpager.viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\7242850e320ef33bad7786e1e0349b14\com.google.android.gms.play-services-ads-18.2.0\AndroidManifest.xml:21:5-23:52
+MERGED from [:com.google.android.gms.play-services-ads-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\7242850e320ef33bad7786e1e0349b14\com.google.android.gms.play-services-ads-18.2.0\AndroidManifest.xml:21:5-23:52
+MERGED from [:com.google.android.gms.play-services-ads-base-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\611e0dbb5193fdfaa0f3adeabf7e782a\com.google.android.gms.play-services-ads-base-18.2.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-ads-base-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\611e0dbb5193fdfaa0f3adeabf7e782a\com.google.android.gms.play-services-ads-base-18.2.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a62dccc092f5d848f6df177b3950cccd\com.google.android.gms.play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a62dccc092f5d848f6df177b3950cccd\com.google.android.gms.play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:18:3-42
+MERGED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:18:3-42
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\41c18cd7600ecdb7b8f5998d4f91eabe\com.google.android.gms.play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\41c18cd7600ecdb7b8f5998d4f91eabe\com.google.android.gms.play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-gass-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\909a7c7563cf99d5329a8af29c4a0ab8\com.google.android.gms.play-services-gass-18.2.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-gass-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\909a7c7563cf99d5329a8af29c4a0ab8\com.google.android.gms.play-services-gass-18.2.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\110d5d553a6fc6f610bf6fb1cc9005d6\com.google.android.gms.play-services-measurement-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\110d5d553a6fc6f610bf6fb1cc9005d6\com.google.android.gms.play-services-measurement-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\f474533290d54191c54e1a675ae15eae\com.google.android.gms.play-services-measurement-impl-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\f474533290d54191c54e1a675ae15eae\com.google.android.gms.play-services-measurement-impl-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\7ef46f9145a1dd5bb9bdf57cb2c63d19\com.google.android.gms.play-services-measurement-sdk-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\7ef46f9145a1dd5bb9bdf57cb2c63d19\com.google.android.gms.play-services-measurement-sdk-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\add27ae4c87fe5f0a31e13e9820beefc\com.google.android.gms.play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\add27ae4c87fe5f0a31e13e9820beefc\com.google.android.gms.play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\ffb6fe2bfdcaed2e475e1c22ecb75422\com.google.android.gms.play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\ffb6fe2bfdcaed2e475e1c22ecb75422\com.google.android.gms.play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:common:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a76928aafc28c022e407ce24cb428b89\common\AndroidManifest.xml:7:5-43
+MERGED from [:common:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a76928aafc28c022e407ce24cb428b89\common\AndroidManifest.xml:7:5-43
+MERGED from [:GoogleAIDL:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\064f0f2b86077e9812e97d58467f6e7b\GoogleAIDL\AndroidManifest.xml:7:5-43
+MERGED from [:GoogleAIDL:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\064f0f2b86077e9812e97d58467f6e7b\GoogleAIDL\AndroidManifest.xml:7:5-43
+MERGED from [:googlemobileads-unity:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\3961bcc1c018b85ae25589fea38de739\googlemobileads-unity\AndroidManifest.xml:12:5-14:41
+MERGED from [:googlemobileads-unity:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\3961bcc1c018b85ae25589fea38de739\googlemobileads-unity\AndroidManifest.xml:12:5-14:41
+MERGED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:7:5-9:41
+MERGED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:7:5-9:41
+MERGED from [:GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-47
+MERGED from [:GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-47
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml
+INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:com.google.android.gms.play-services-ads-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\7242850e320ef33bad7786e1e0349b14\com.google.android.gms.play-services-ads-18.2.0\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml
+		ADDED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml
+		MERGED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml
+		INJECTED from D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:24:5-254
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:24:178-202
+	android:configChanges
+		ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:24:68-177
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:24:203-251
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:24:15-67
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:25:5-219
+	android:authorities
+		ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:25:79-167
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:25:168-192
+	android:initOrder
+		ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:25:193-216
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5fb104cc6bc143342a8f8478eea0c3bf\com.google.android.gms.play-services-ads-lite-18.2.0\AndroidManifest.xml:25:15-78
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\41c18cd7600ecdb7b8f5998d4f91eabe\com.google.android.gms.play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\41c18cd7600ecdb7b8f5998d4f91eabe\com.google.android.gms.play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\41c18cd7600ecdb7b8f5998d4f91eabe\com.google.android.gms.play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\f474533290d54191c54e1a675ae15eae\com.google.android.gms.play-services-measurement-impl-17.0.0\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\f474533290d54191c54e1a675ae15eae\com.google.android.gms.play-services-measurement-impl-17.0.0\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\add27ae4c87fe5f0a31e13e9820beefc\com.google.android.gms.play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\add27ae4c87fe5f0a31e13e9820beefc\com.google.android.gms.play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:26:5-110
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\f474533290d54191c54e1a675ae15eae\com.google.android.gms.play-services-measurement-impl-17.0.0\AndroidManifest.xml:26:5-110
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\f474533290d54191c54e1a675ae15eae\com.google.android.gms.play-services-measurement-impl-17.0.0\AndroidManifest.xml:26:5-110
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\add27ae4c87fe5f0a31e13e9820beefc\com.google.android.gms.play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:26:5-110
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\add27ae4c87fe5f0a31e13e9820beefc\com.google.android.gms.play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:26:5-110
+MERGED from [:GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:10:5-12:31
+MERGED from [:GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:10:5-12:31
+	tools:node
+		ADDED from [:GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:12:9-28
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:34:9-42:20
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\f474533290d54191c54e1a675ae15eae\com.google.android.gms.play-services-measurement-impl-17.0.0\AndroidManifest.xml:29:9-37:20
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\f474533290d54191c54e1a675ae15eae\com.google.android.gms.play-services-measurement-impl-17.0.0\AndroidManifest.xml:29:9-37:20
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\add27ae4c87fe5f0a31e13e9820beefc\com.google.android.gms.play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:29:9-37:20
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\add27ae4c87fe5f0a31e13e9820beefc\com.google.android.gms.play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\567dd34443a21188df5d2c856b608d6e\com.google.android.gms.play-services-measurement-17.0.0\AndroidManifest.xml:49:13-87
+uses-permission#com.android.vending.BILLING
+ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:12:22-64
+uses-feature#android.software.vr.mode
+ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:15:9-48
+uses-feature#android.software.vr.high_performance
+ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:19:9-60
+activity#com.unity.purchasing.googleplay.PurchaseActivity
+ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:23:9-26:86
+	android:configChanges
+		ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:25:13-170
+	android:theme
+		ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:26:13-83
+	android:name
+		ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:24:13-76
+activity#com.unity.purchasing.googleplay.VRPurchaseActivity
+ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:27:9-37:20
+	android:enableVrMode
+		ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:30:13-106
+	android:configChanges
+		ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:29:13-170
+	android:theme
+		ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:31:13-51
+	android:name
+		ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:28:13-78
+intent-filter#action:name:com.google.vr.vrcore.ACTION_NONE+category:name:com.google.intent.category.DAYDREAM
+ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:32:13-36:29
+action#com.google.vr.vrcore.ACTION_NONE
+ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:33:17-75
+	android:name
+		ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:33:25-72
+category#com.google.intent.category.DAYDREAM
+ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:35:17-80
+	android:name
+		ADDED from [:GooglePlay:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\5a3ce20fc802b60a3ea62411c9c3ef8a\GooglePlay\AndroidManifest.xml:35:27-77
+activity#com.unity3d.services.ads.adunit.AdUnitActivity
+ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:15:9-19:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:18:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:17:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:19:13-71
+	android:name
+		ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:16:13-74
+activity#com.unity3d.services.ads.adunit.AdUnitTransparentActivity
+ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:20:9-24:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:23:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:22:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:24:13-83
+	android:name
+		ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:21:13-85
+activity#com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity
+ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:25:9-29:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:28:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:27:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:29:13-83
+	android:name
+		ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:26:13-93
+activity#com.unity3d.services.ads.adunit.AdUnitSoftwareActivity
+ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:30:9-34:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:33:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:32:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:34:13-71
+	android:name
+		ADDED from [:UnityAds:] C:\Users\Asjad A. Khan\.gradle\caches\transforms-2\files-2.1\a03b70daf0dcb5167ac32c4ba9f28707\UnityAds\AndroidManifest.xml:31:13-82
+uses-library#org.apache.http.legacy
+ADDED from [:GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-17:40
+	android:required
+		ADDED from [:GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [:GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:16:13-50
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from [:GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:19:9-21:70
+	android:value
+		ADDED from [:GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:21:13-67
+	android:name
+		ADDED from [:GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:20:13-69

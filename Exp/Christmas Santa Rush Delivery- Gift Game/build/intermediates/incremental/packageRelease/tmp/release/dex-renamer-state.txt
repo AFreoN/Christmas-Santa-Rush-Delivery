@@ -1,0 +1,4 @@
+#Thu Dec 12 15:02:30 PKT 2019
+base.0=D\:\\_OFFICE\\CURRENT\\Santa\\Christmas Santa Rush Delivery17\\Exp\\Christmas Santa Rush Delivery- Gift Game\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

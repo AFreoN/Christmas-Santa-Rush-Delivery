@@ -1,0 +1,35 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.google.unity.ads"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk android:targetSdkVersion="19" />
+8-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml
+9
+10    <uses-permission
+10-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:9:3-128
+11        android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+11-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:9:20-105
+12        tools:node="remove" />
+12-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:9:106-125
+13    <!-- <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="20" /> -->
+14    <application>
+14-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:4:3-8:17
+15        <uses-library
+15-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:5:5-84
+16            android:name="org.apache.http.legacy"
+16-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:5:44-81
+17            android:required="false" />
+17-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:5:19-43
+18        <!-- Your AdMob App ID will look similar to this sample ID: ca-app-pub-3940256099942544~3347511713 -->
+19        <meta-data
+19-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:7:5-130
+20            android:name="com.google.android.gms.ads.APPLICATION_ID"
+20-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:7:16-72
+21            android:value="ca-app-pub-6706350907130772~7903798263" />
+21-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\AndroidManifest.xml:7:73-127
+22    </application>
+23
+24</manifest>

@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.google.unity.ads.test" >
+4
+5    <uses-sdk
+5-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4144543168520951544.xml:5:5-73
+6        android:minSdkVersion="1"
+6-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4144543168520951544.xml:5:15-40
+7        android:targetSdkVersion="19" />
+7-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4144543168520951544.xml:5:41-70
+8
+9    <instrumentation
+9-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4144543168520951544.xml:11:5-15:75
+10        android:name="android.test.InstrumentationTestRunner"
+10-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4144543168520951544.xml:11:22-75
+11        android:functionalTest="false"
+11-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4144543168520951544.xml:14:22-52
+12        android:handleProfiling="false"
+12-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4144543168520951544.xml:13:22-53
+13        android:label="Tests for com.google.unity.ads.test"
+13-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4144543168520951544.xml:15:22-73
+14        android:targetPackage="com.google.unity.ads.test" />
+14-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4144543168520951544.xml:12:22-71
+15
+16    <application android:debuggable="true" >
+16-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4144543168520951544.xml:7:5-9:19
+16-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4144543168520951544.xml:7:18-43
+17        <uses-library android:name="android.test.runner" />
+17-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4144543168520951544.xml:8:9-60
+17-->D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4144543168520951544.xml:8:23-57
+18        <uses-library
+18-->[__tested_artifact__::GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-17:40
+19            android:name="org.apache.http.legacy"
+19-->[__tested_artifact__::GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-50
+20            android:required="false" /> <!-- Your AdMob App ID will look similar to this sample ID: ca-app-pub-3940256099942544~3347511713 -->
+20-->[__tested_artifact__::GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-37
+21        <meta-data
+21-->[__tested_artifact__::GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-21:70
+22            android:name="com.google.android.gms.ads.APPLICATION_ID"
+22-->[__tested_artifact__::GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-69
+23            android:value="ca-app-pub-6706350907130772~7903798263" />
+23-->[__tested_artifact__::GoogleMobileAdsPlugin] D:\_OFFICE\CURRENT\Santa\Christmas Santa Rush Delivery17\Exp\Christmas Santa Rush Delivery- Gift Game\GoogleMobileAdsPlugin\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-67
+24    </application>
+25
+26</manifest>
